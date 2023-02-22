@@ -2,3 +2,5 @@
 ## Exploratory Data Analysis Course
 
 This repository contains the various notebooks completed during the course Exploratory Data Analysis for IBM's Machine Learning Professional Certificate on Coursera.
+
+### 1.1 Reading Data with SQL
