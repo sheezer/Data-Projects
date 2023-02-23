@@ -5,6 +5,10 @@ This repository contains the various notebooks completed during the course Explo
 
 ### 1.1 Reading Data with SQL
 
+Creates a SQL connection to a sample SQL database from within a jupyter notebook.
+
+*Tools: Pandas, Sqlite3*
+
 ### 1.2 Reading Data with Baseball Dataset
 
 ### 1.3 Data Cleaning with Ames Housing Dataset
