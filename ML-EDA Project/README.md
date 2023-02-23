@@ -39,14 +39,30 @@ Feature Engineering with the Ames Housing Dataset. Includes some simple EDA, one
 
 *Tools: Pandas, Seaborn, Scikit-learn*
 
-### 3.2- Feature Engineering with Regression on Ames Housing Dataset
+### 3.2- Feature Engineering with PCA on Ames Housing Dataset
 
+Feature Engineering with the Ames Housing Dataset. Includes Feature Transformation, One Hot Encoding, Label Encoding, Date Time Transformations, Feature Selection and Feature Extraction using Principal Component Analysis (PCA).
 
+*Tools: Pandas, Seaborn, Scikit-learn, Numpy, Plotly*
 
 ### 4.1- Hypothesis Testing
 
+Introduction to the basic concept of Hypothesis Testing with probability and plots.
+
+*Tools: Numpy, Scipy, Matplotlib*
+
 ### 4.2- Hypothesis Testing with Insurance Dataset
+
+Hypothesis Testing with the Insurance dataset. Involves choosing a sample statistic, defining a hypothesis, setting a decision criteria and evaluating and interpreting the results.
+
+*Tools: Numpy, Scipy, Matplotlib, Seaborn, Pandas, Statsmodel*
 
 ### EDA Final Project Notebook
 
+The Final Project involves a Coursera courses dataset.The dataset and related details can be found at the link: https://www.kaggle.com/datasets/siddharthm1698/coursera-coursedataset?resource=download . The project performs EDA on the dataset and then tests certain Hypotheses about the dataset.
+
+*Tools: Numpy, Scipy, Seaborn, Pandas, Plotly, Statsmodel*
+
 ### EDA Final Project Report
+
+A report about the Final Project undertaken on the Coursera courses dataset. Includes details about all the decisions undertaken during and findings from the project.
