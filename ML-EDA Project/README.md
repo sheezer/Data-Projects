@@ -59,7 +59,7 @@ Hypothesis Testing with the Insurance dataset. Involves choosing a sample statis
 
 ### EDA Final Project Notebook
 
-The Final Project involves a Coursera courses dataset.The dataset and related details can be found at the link: https://www.kaggle.com/datasets/siddharthm1698/coursera-coursedataset?resource=download . The project performs EDA on the dataset and then tests certain Hypotheses about the dataset.
+The Final Project involves a Coursera courses dataset.The dataset and related details can be found at the link: https://www.kaggle.com/datasets/siddharthm1698/coursera-course-dataset?resource=download . The project performs EDA on the dataset and then tests certain Hypotheses about the dataset.
 
 *Tools: Numpy, Scipy, Seaborn, Pandas, Plotly, Statsmodel*
 
