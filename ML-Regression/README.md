@@ -5,8 +5,9 @@ This repository contains the various notebooks completed during the course Super
 
 ### 1.1- Transforming Target with Boston Dataset
 
-Apply transformations to make target variable more normally distributed for regression
-Apply inverse transformations to be able to use these in a regression context
+Transform target variables in a dataset in preparation for regression. Includes how to apply transformations to make target variable more normally distributed for regression and apply inverse transformations to be able to use these in a regression context.
+
+* Tools: Numpy, Pandas, Scikit-learn, Matplotlib  *
 
 ### 1.2- Linear Regression with Car Price Dataset
 
