@@ -7,7 +7,7 @@ This repository contains the various notebooks completed during the course Super
 
 Transform target variables in a dataset in preparation for regression. Includes how to apply transformations to make target variable more normally distributed for regression and apply inverse transformations to be able to use these in a regression context.
 
-* Tools: Numpy, Pandas, Scikit-learn, Matplotlib  *
+*Tools: Numpy, Pandas, Scikit-learn, Matplotlib*
 
 ### 1.2- Linear Regression with Car Price Dataset
 
