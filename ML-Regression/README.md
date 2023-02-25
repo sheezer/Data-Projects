@@ -5,6 +5,9 @@ This repository contains the various notebooks completed during the course Super
 
 ### 1.1- Transforming Target with Boston Dataset
 
+Apply transformations to make target variable more normally distributed for regression
+Apply inverse transformations to be able to use these in a regression context
+
 ### 1.2- Linear Regression with Car Price Dataset
 
 ### 2.1- Regression Train Test Split with Ames Housing Dataset
