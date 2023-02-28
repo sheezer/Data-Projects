@@ -37,7 +37,7 @@ Provides a practical understanding of Autoregressive (AR) models, a practical un
 
 Provides a practical understanding of Autoregressive Integrated Moving Average (ARIMA) models, insight into checking fit of model, learn to create forecasts with ARIMA models in Python, a practical understanding of fbprophet, how to check fit of fbprophet model and means of adjusting and improving fbprophet model parameters.
 
-*Tools :Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Datetime, Fbprophet, Pmdarima*
+*Tools: Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Datetime, Fbprophet, Pmdarima*
 
 ### 4.1-Deep_Learning and Time_Series_Analysis
 
