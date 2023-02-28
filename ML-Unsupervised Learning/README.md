@@ -106,3 +106,15 @@ Introduces IDF (Inverse Document Frequency). Helps understand what term frequenc
 Applies matrix operations to better understand NMF. Uses NMF to design an image retrieval system on the basis of image similarity.
 
 *Tools: Numpy, Sympy, Pandas, Scikit-learn, Pillow, Matplotlib*
+
+### Clustering Final Project Notebook
+
+The final project uses a dataset containing socioeconomic data on countries of the world. It is provided by an NGO (Non-Governmental Organisation) HELP International. The dataset used for the project can be found at: [Dataset Link](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data)
+
+The project uses different clustering techniques on the dataset to determine if it is possible to cluster countries that suffer from lower socio-economic conditions. 
+
+*Tools: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly*
+
+### Clustering Final Project Report
+
+A report about the Final Project undertaken on the Socioeconomic data of countries dataset. It discusses the results from applying different clustering techniques on the dataset. The results obtained from clustering are discussed with charts.
