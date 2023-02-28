@@ -67,4 +67,4 @@ Focuses on building regression models to predict ratings using the combined embe
 
 Focuses on building classification models to predict rating modes using the combined embedding vectors.
 
-*Tools: Pandas, Scikit-learn*
+*Tools: Pandas, Scikit-learn, Imblearn*
