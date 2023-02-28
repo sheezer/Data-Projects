@@ -59,4 +59,12 @@ Introduces ElasticNet Regression. Discusses the advantages and disadvantages of 
 
 ### Regression Final Project Notebook
 
+The Final Project makes use of a Life Expectancy dataset to understand the impact of different features on life expectancy between different countries. The dataset and related details can be found at the link: [Dataset Link](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
+
+The project makes use of EDA, data cleaning and feature engineering. It applies Polynomial Regression, Linear Regression, Lasso Regression, Ridge Regression and ElasticNet Regression on the dataset. It also makes use of data standardization and PCA on the data. Includes a bonus where some advanced regression techniques for specific use cases were attempted. 
+
+*Tools: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn*
+
 ### Regression Final Project Report
+
+A report about the Final Project undertaken on the Life Expectancy dataset. Discusses the results from different regression techniques and overall findings from the project.
