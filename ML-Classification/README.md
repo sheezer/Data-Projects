@@ -105,3 +105,7 @@ Focuses on effective class weighting strategies that will assign minority class 
 Involves identifying typical patterns of imbalanced data challenges, applying Class Re-weighting method to adjust the impacts of different classes in model training processes, applying Oversampling and Undersampling to generate synthetic datasets and rebalance classes and evaluate your consolidated classifiers using robust metrics such as F-score and AUC.
 
 *Tools: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Imblearn, Collections*
+
+### Classification Final Project Notebook
+
+The final project makes use of the forest cover dataset provided by the UCI Machine Learning repository. The dataset includes various characteristics of forests as fatures. The dataset used for the project can be found at: [Dataset Link] (https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset).
