@@ -59,10 +59,12 @@ Uses tensorflow to train neural networks to extract the user and item latent fea
 
 ### 3.4-Regression_with_Embeddings
 
-Focuses on buildinggression models to predict ratings using the combined embedding vectors.
+Focuses on building regression models to predict ratings using the combined embedding vectors.
 
 *Tools: Pandas, Scikit-learn*
 
 ### 3.5-Classification_with_Embeddings
 
-Focuses on bilding ssification models to predict rating modes using the combined embedding vectors
+Focuses on building classification models to predict rating modes using the combined embedding vectors.
+
+*Tools: Pandas, Scikit-learn*
