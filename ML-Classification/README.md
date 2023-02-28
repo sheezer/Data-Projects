@@ -108,4 +108,11 @@ Involves identifying typical patterns of imbalanced data challenges, applying Cl
 
 ### Classification Final Project Notebook
 
-The final project makes use of the forest cover dataset provided by the UCI Machine Learning repository. The dataset includes various characteristics of forests as fatures. The dataset used for the project can be found at: [Dataset Link](https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset)
+The final project makes use of the forest cover dataset provided by the UCI Machine Learning repository. The dataset includes various characteristics of forests as features. The dataset used for the project can be found at: [Dataset Link](https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset)
+The project makes use of undersampling to reduce the size of the dataset as the target varible has 7 different classes with 2 classes having very little presence. The resulting undersampled dataset is passed through multiple classifiers and the results from different classification models are discussed. All classification techniques discussed in the course are used.
+
+*Tools: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Imblearn, Plotly*
+
+### Classification Final Project Report
+
+A report about the Final Project undertaken on the Forest Cover dataset. It discusses the results from applying different classification techniques on the undersampled dataset. The results from the models are discussed in some detail using classification reports to compare the effect of different models on various classification metrics.
