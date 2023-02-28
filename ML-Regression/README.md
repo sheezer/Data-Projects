@@ -17,17 +17,45 @@ Applies linear regression to the car price dataset. This involves selecting sign
 
 ### 2.1- Regression Train Test Split with Ames Housing Dataset
 
+Applies linear regression to the Ames Housing dataset. This involves carrying out all the necessary steps to prepare the data for the task including EDA, one-hot encoding categorical data and label encoding target data, train test split of data and data scaling along with Linear Regression.
+
+*Tools: Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib*
+
 ### 2.2- Polynomial Regression with Cars Dataset
+
+Applies polynomial regression to data by first performing EDA, train test split, Linear Regression, Polynomial transformation of data and Polynomial regression afterwards. Furrher deals with model overfitting and model underfitting as well as hyperparameter grid selection.
+
+*Tools: Numpy, Pandas, Scikit-learn, Seaborn, Scipy, Matplotlib, Itertools*
 
 ### 3.1- Cross Validation with Boston Housing Dataset
 
+Discusses pickling, hyperparameter tuning and regularization. Introduces Ridge and Lasso Regression.
+
+*Tools: Numpy, Pickle, Pandas, Scikit-learn, Matplotlib*
+
 ### 3.2- Cross Validation with Cars Dataset
+
+Discusses train test split, cross validation with k-folds and cross validation scores to select hyperparameters.
+
+*Tools: Numpy, Seaborn, Pandas, Scikit-learn, Matplotlib*
 
 ### 4- Regularization with Ames Housing Dataset
 
+Applies Polynomial Regression, Ridge Regression and Lasso Regression to data. Involves log transforming and scaling data. Also looks at Stochastic Gradient Descent as regressor.
+
+*Tools: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn*
+
 ### 5.1- Regularization with Boston Housing Dataset
 
+Implements data standardization and variants of regularized regression. Combines data standardization with train-test splitting procedure. Avoids overfitting.
+
+*Tools: Numpy, Pandas, Scikit-learn, Matplotlib*
+
 ### 5.2- Regularization Techniques with Cars Dataset
+
+Introduces ElasticNet Regression. Discusses the advantages and disadvantages of various regularization techniques. Performs grid search on validated data to find optimal hyperparameters. Also applies Principal Component Analysis to data.
+
+*Tools: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn*
 
 ### Regression Final Project Notebook
 
