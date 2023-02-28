@@ -108,4 +108,4 @@ Involves identifying typical patterns of imbalanced data challenges, applying Cl
 
 ### Classification Final Project Notebook
 
-The final project makes use of the forest cover dataset provided by the UCI Machine Learning repository. The dataset includes various characteristics of forests as fatures. The dataset used for the project can be found at: [Dataset Link] (https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset).
+The final project makes use of the forest cover dataset provided by the UCI Machine Learning repository. The dataset includes various characteristics of forests as fatures. The dataset used for the project can be found at: [Dataset Link] (https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset)
