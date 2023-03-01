@@ -68,3 +68,7 @@ Focuses on building regression models to predict ratings using the combined embe
 Focuses on building classification models to predict rating modes using the combined embedding vectors.
 
 *Tools: Pandas, Scikit-learn, Imblearn*
+
+### Final Presentation
+
+Final Presentation of the Machine Learning Capstone project, discussing all the different aspects involved in designing a Course recommender System making use of a provided Courses enrollment dataset. Discusses all the different aspects involved in designing the course recommender system, ranging from basic EDA, determining courses similarity, applying machine learning models and publishing the resulting recommender system as a Streamlit app.
