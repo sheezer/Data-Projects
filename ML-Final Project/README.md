@@ -72,3 +72,7 @@ Focuses on building classification models to predict rating modes using the comb
 ### Final Presentation
 
 Final Presentation of the Machine Learning Capstone project, discussing all the different aspects involved in designing a Course recommender System making use of a provided Courses enrollment dataset. Discusses all the different aspects involved in designing the course recommender system, ranging from basic EDA, determining courses similarity, applying machine learning models and publishing the resulting recommender system as a Streamlit app.
+
+### Streamlit Application
+
+The course recommender system designed as part of the MAchine Learning Capstone project was used to create a Streamlit application. The application can be accessed here: [App Link](https://sheezer-course-recommender-app-recommender-app-6xy8bz.streamlit.app/)
