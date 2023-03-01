@@ -75,6 +75,6 @@ Final Presentation of the Machine Learning Capstone project, discussing all the 
 
 ### Streamlit Application
 
-The course recommender system designed as part of the MAchine Learning Capstone project was used to create a Streamlit application. The application can be accessed here: [App Link](https://sheezer-course-recommender-app-recommender-app-6xy8bz.streamlit.app/)
+The course recommender system designed as part of the Machine Learning Capstone project was used to create a Streamlit application. The application can be accessed here: [App Link](https://sheezer-course-recommender-app-recommender-app-6xy8bz.streamlit.app/)
 
 The repository containing all the files used in the application can be accessed here: [Repo Link](https://github.com/sheezer/Course-Recommender-App)
