@@ -27,25 +27,25 @@ Makes use of the MNIST dataset. First, the basics of a convolutional neural netw
 
 *Tools: Numpy, Pandas, Keras, Matplotlib*
 
-### P-A- Final Project Baseline
+### P-A-Final Project Baseline
 
 The final project involves using the concrete dataset for regression by making use of a Keras designed neural network. The baseline model is a simple nural network with one hidden layer. Its performance is noted using metrics from Scikit-learn.
 
 *Tools: Numpy, Pandas, Keras, Scikit-Learn*
 
-### P-B- Final Project Normalized
+### P-B-Final Project Normalized
 
 The final project involves using the concrete dataset for regression by making use of a Keras designed neural network. The normalized model uses the same neural network as the baseline model but makes use of normalized features data. Its performance is noted using metrics from Scikit-learn.
 
 *Tools: Numpy, Pandas, Keras, Scikit-Learn*
 
-### P-C- Final Project 100 epochs
+### P-C-Final Project 100 epochs
 
 The final project involves using the concrete dataset for regression by making use of a Keras designed neural network. The 100 epochs model is the same as the baseline model but trains the neural network for a longer time period (100 epochs). Its performance is noted using metrics from Scikit-learn.
 
 *Tools: Numpy, Pandas, Keras, Scikit-Learn*
 
-### P-D- Final Project Complex
+### P-D-Final Project Complex
 
 The final project involves using the concrete dataset for regression by making use of a Keras designed neural network. The complex model makes use of a neural network with more hidden layers for training. Its performance is noted using metrics from Scikit-learn.
 
