@@ -38,3 +38,6 @@ The data from different launch sites is plotted on Folium to better illustrate t
 The SpaceX dataset is run through different Machine Learning algorithms. The algorithms used are Decision Trees Classifier, Logistic Regression Classifier, Support Vector Machine and K-Neighbors Classifier. The accuracy for each algorithm is calculated and saved.
 
 *Tools: Pandas, Numpy, Scikit-Learn, Matplotlib*
+
+### Final Presentation
+The final presentation which involves all the details of the processes and insights for the capstone project.
