@@ -1,7 +1,7 @@
 # IBM Data Scientist Professional Certificate
 ## Applied Data Science Capstone Project
 
-This repository contains the various notebooks and the final presentation completed during the course Python Capstone Project for IBM's Data Scientist Professional Certificate on Coursera. The Capstone project revolves around rocket launches of SpaceX. The data from different rocket launches and their success and failure is used to find the relatonship between launch success and different data features.
+This repository contains the various notebooks and the final presentation completed during the course Applied Data Science Capstone Project for IBM's Data Scientist Professional Certificate on Coursera. The Capstone project revolves around rocket launches of SpaceX. The data from different rocket launches and their success and failure is used to find the relatonship between launch success and different data features.
 
 
 ### 1-1-spacex-data-collection
