@@ -2,6 +2,9 @@
 
 A repository containing various projects and microprojects.
 
+## DA-Capstone
+All microprojects and notebooks undertaken during the Coursera IBM Professional Certificate for Data Analyst for the course Data Analyst Capstone Project. The final project involves running a data analysis on Stack Overflow Developer Survey 2019 to identify and visualize different trends in various areas of the technology sector. The final presentation contains all the relevant insights derived from the dataset.
+
 ## AI-Keras
 All microprojects and notebooks undertaken during the Coursera IBM Professional Certificate for AI Engineering for the course Introduction to Deep Learning and Neural Networks with Keras for Machine Learning. Includes a Final Project on comparing Neural Network models with different data preprocessing and model configurations.
 
