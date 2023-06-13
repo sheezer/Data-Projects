@@ -1,7 +1,7 @@
 # IBM Data Analyst Professional Certificate
 ## Data Analyst Capstone Project
 
-This repository contains the various notebooks and the final presentation completed during the course Data Analyst Capstone Project for IBM's Data Analyst Professional Certificate on Coursera. The Capstone project revolves around analysing and visualizing jobs data about the tech industry.
+This repository contains the various notebooks and the final presentation completed during the course Data Analyst Capstone Project for IBM's Data Analyst Professional Certificate on Coursera. The Capstone project revolves around analysing and visualizing trends from the Stack Overflow Developers Survey 2019 about the technology sector.
 
 
 ### 1-1-Web-Scraping Review
