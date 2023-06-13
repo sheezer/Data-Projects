@@ -1,5 +1,5 @@
 # Data-Projects
-A repository containing various projects and microprojects.
+A repository containing various projects and microprojects for data analysis, data science and machine learning.
 
 ## AI-Keras
 All microprojects and notebooks undertaken during the Coursera IBM Professional Certificate for AI Engineering for the course Introduction to Deep Learning and Neural Networks with Keras for Machine Learning. Includes a Final Project on comparing Neural Network models with different data preprocessing and model configurations.
