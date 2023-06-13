@@ -4,6 +4,9 @@ A repository containing various projects and microprojects for data analysis, da
 ## AI-Keras
 All microprojects and notebooks undertaken during the Coursera IBM Professional Certificate for AI Engineering for the course Introduction to Deep Learning and Neural Networks with Keras for Machine Learning. Includes a Final Project on comparing Neural Network models with different data preprocessing and model configurations.
 
+## DA with R-Capstone
+All microprojects and notebooks undertaken during the Coursera IBM Professional Certificate for Data Analytics with Excel and R for the course Data Science with R Capstone Project. The final project involves running a data analysis on Seoul Bike demand dataset along with weather data to determine number of bike rentals. Trends and patterns in bike rentals and weather and seasonal phenomenon are identified and visualized. Subsequently, a linear regression model is trained to predict bike rental demand with weather and seasonal features.
+
 ## DA-Capstone
 All microprojects and notebooks undertaken during the Coursera IBM Professional Certificate for Data Analyst for the course Data Analyst Capstone Project. The final project involves running a data analysis on Stack Overflow Developer Survey 2019 to identify and visualize different trends in various areas of the technology sector. The Final Presentation contains all the relevant insights derived from the dataset.
 
