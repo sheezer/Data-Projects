@@ -34,4 +34,20 @@ Makes use of the pretrained resnet50 model from Keras to train a classifier for 
 
 *Tools: Numpy, Matplotlib, Keras*
 
-### 3-2-
+### 3-2-linearclassifier
+
+Makes use of PyTorch and the Torchvision library. First, creates a Dataset class for the concrete crack images dataset. The dataset is normalized and its values are passed to a custom made Softmax model. The model is trained and its classificaton accuracy recorded.
+
+*Tools: Numpy, Matplotlib, PyTorch, torchvision*
+
+### 4-1-Comparing_Models
+
+Compares the VGG16 and resnet50 pretrained models. First, the VGG16 pretrained model is loaded, the concrete crack images dataset is preprocessed according to its input specifications and the final output layer is modeified according to the current scenario. The model is then trained to classify concrete images as cracked or uncracked. The resnet50 model is loaded from the previous task. The two trained models are then compared for their classification accuracy and the results are recorded.
+
+*Tools: Numpy, Matplotlib, Keras*
+
+### 4-2-resnet18
+
+Makes use of pretrained model resnet18 in PyTorch this time to classify images from the concrete crack images dataset. The custom Dataset class is created to split the data into training and validation sets. Then the pretrained resnet18 model is loaded and its output layer modified for the current scenario. The model is then trained to classify images and its classification accuracy is noted.
+
+*Tools: Numpy, Matplotlib, PyTorch*
