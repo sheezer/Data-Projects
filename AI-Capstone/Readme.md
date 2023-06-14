@@ -16,3 +16,5 @@ Loads the concrete crack images dataset and visualizes it. The dataset will be u
 *Tools: Numpy, Matplotlib, PIL(Pillow), Pandas*
 
 ### 2-1-Data-Preparation
+
+Uses the Keras library to convert the concrete crack images dataset into batches which may be processed for 
