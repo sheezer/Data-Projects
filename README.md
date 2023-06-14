@@ -2,7 +2,7 @@
 A repository containing various projects and microprojects for data analysis, data science and machine learning.
 
 ## AI-Capstone
-All microprojects and notebooks undertaken during the Coursera IBM Professional Certificate for AI Engineering for the course AI Capstone Project for Deep Learning. The capstone project revolves around classifying cracked images from the concrete crack images dataset with pretrained deep learning models from the Keras(Tensorflow) and PyTorch libraries. The models from each library are modified and trained to classify concrete images.
+All microprojects and notebooks undertaken during the Coursera IBM Professional Certificate for AI Engineering for the course AI Capstone Project for Deep Learning. The capstone project revolves around detecting cracks in buildings. Images from the concrete crack images dataset with pretrained deep learning models from the Keras(Tensorflow) and PyTorch libraries are used. The models from each library are modified and trained to classify concrete images from buildings.
 
 ## AI-Keras
 All microprojects and notebooks undertaken during the Coursera IBM Professional Certificate for AI Engineering for the course Introduction to Deep Learning and Neural Networks with Keras for Machine Learning. Includes a Final Project on comparing Neural Network models with different data preprocessing and model configurations.
