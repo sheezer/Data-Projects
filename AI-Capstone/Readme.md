@@ -1,7 +1,7 @@
 # IBM AI Engineering Professional Certificate
 ## Introduction to Deep Learning and Neural Networks with Keras
 
-This repository contains the various notebooks completed during the course AI Capstone Project with Deep Learning for IBM's AI Engineering Professional Certificate on Coursera. The capstone project revolves around classifying cracked images from the concrete crack images dataset. This is an important part of structural health monitoring. The capstone uses pretrained models from both the Keras(Tensorflow) and PyTorch libraries. The models from each library are modified separately and then trained on the concrete crack images dataset. Their performances are noted.
+This repository contains the various notebooks completed during the course AI Capstone Project with Deep Learning for IBM's AI Engineering Professional Certificate on Coursera. The capstone project revolves around classifying cracked images from the concrete crack images dataset. This is an important part of structural health monitoring. The capstone uses pretrained deep learning models from both the Keras(Tensorflow) and PyTorch libraries. The models from each library are modified separately and then trained on the concrete crack images dataset. Their performances are noted.
 
 ### 1-1-Loading-Data
 
